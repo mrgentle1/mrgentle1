@@ -1,4 +1,10 @@
-### Hi there 👋
+### Solved.ac Tier
+<p>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mrgentle1&cache=c">
+</p>
+
+### Contact
++ mrgentle1@kookmin.ac.kr
 
 <!--
 **mrgentle1/mrgentle1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
