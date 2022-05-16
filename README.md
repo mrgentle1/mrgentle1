@@ -1,3 +1,5 @@
+![mrgentle1's github stats](https://github-readme-stats.vercel.app/api?username=mrgentle14&show_icons=true&theme=dracula)
+
 ### Solved.ac Tier
 <p>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mrgentle1&cache=c">
