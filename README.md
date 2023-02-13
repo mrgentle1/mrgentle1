@@ -10,6 +10,7 @@
 </p>
 
 ### Contact
+mrgentle1.github.io/resume-nextjs/
 + mrgentle1@kookmin.ac.kr
 
 <!--
