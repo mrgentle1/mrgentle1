@@ -42,8 +42,9 @@
 </p>
 
 <h2>📝 Contact Me</h2>
-<a href="mrgentle1.github.io/resume-nextjs">mrgentle1.github.io/resume-nextjs/</a>
-+ mrgentle1@kookmin.ac.kr
+
+* resume: <http://mrgentle1.github.io/resume-nextjs/>
+* email: <mrgentle1@kookmin.ac.kr>
 
 <!--
 **mrgentle1/mrgentle1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
