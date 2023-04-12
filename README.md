@@ -36,12 +36,12 @@
 ![mrgentle1's github stats](https://github-readme-stats.vercel.app/api?username=mrgentle1&show_icons=true&theme=dracula)
 
 
-### Solved.ac Tier
+<h2> Solved.ac Tier </h2>
 <p>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mrgentle1&cache=c">
 </p>
 
-### Contact
+<h2>📝 Contact Me</h2>
 <a href="mrgentle1.github.io/resume-nextjs">mrgentle1.github.io/resume-nextjs/</a>
 + mrgentle1@kookmin.ac.kr
 
