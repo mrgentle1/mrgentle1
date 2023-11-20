@@ -45,11 +45,6 @@
 ![mrgentle1's github stats](https://github-readme-stats.vercel.app/api?username=mrgentle1&show_icons=true&theme=dracula)
 
 
-<h2> Solved.ac Tier </h2>
-<p>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mrgentle1&cache=c">
-</p>
-
 <h2>📝 Contact Me</h2>
 
 * resume: <http://mrgentle1.github.io/resume-nextjs/>
